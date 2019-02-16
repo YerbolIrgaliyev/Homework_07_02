@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Porsche911>
+  <Car>
+    <Weight> 1793 </Weight>
+    <MaxSpeed> 312 </MaxSpeed>
+    <PlaceCnt> 2 </PlaceCnt>
+    <Model> Porsche 911 GT3 </Model>
+  </Car>
+</Porsche911>

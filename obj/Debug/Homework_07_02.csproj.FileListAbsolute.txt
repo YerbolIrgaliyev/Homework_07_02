@@ -1,0 +1,10 @@
+C:\Users\вава\source\repos\Homework_07_02\bin\Debug\Homework_07_02.exe.config
+C:\Users\вава\source\repos\Homework_07_02\bin\Debug\Homework_07_02.exe
+C:\Users\вава\source\repos\Homework_07_02\bin\Debug\Homework_07_02.pdb
+C:\Users\вава\source\repos\Homework_07_02\bin\Debug\Json.dll
+C:\Users\вава\source\repos\Homework_07_02\bin\Debug\Json.pdb
+C:\Users\вава\source\repos\Homework_07_02\obj\Debug\Homework_07_02.csprojAssemblyReference.cache
+C:\Users\вава\source\repos\Homework_07_02\obj\Debug\Homework_07_02.csproj.CoreCompileInputs.cache
+C:\Users\вава\source\repos\Homework_07_02\obj\Debug\Homework_07_02.csproj.CopyComplete
+C:\Users\вава\source\repos\Homework_07_02\obj\Debug\Homework_07_02.exe
+C:\Users\вава\source\repos\Homework_07_02\obj\Debug\Homework_07_02.pdb
